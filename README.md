@@ -13,15 +13,14 @@ Counting Bot is a Discord bot that facilitates a sequential counting game within
 1. Invite the Counting Bot to your Discord server.
 2. Set up the counting channel using the `.setup` command in the desired channel.
 3. Users can start sending numbers in sequential order in the counting channel.
-4. The bot will react with ✅ or ❌ based on the accuracy of the number sent.
+4. The bot will react with ❌ based on the accuracy of the number sent.
 5. Enjoy the counting game and have fun with your community!
 
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Replace `YOUR_BOT_TOKEN` in the code with your actual bot token.
-4. Run the bot using `python bot.py`.
+2. Replace `YOUR_BOT_TOKEN` in the code with your actual bot token.
+3. Run the bot using `python main.py`.
 
 ## Contributing
 
